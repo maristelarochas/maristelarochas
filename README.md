@@ -10,6 +10,7 @@ Sou desenvolvedora em formação, apaixonada por tecnologia e pelo impacto que b
 Projetos práticos que desenvolvi para aprender e aplicar conceitos (C#, ASP.NET, WPF, JavaScript, Bootstrap, entre outros).
 
 Aplicativos multiplataforma com foco em colaboração e gamificação (meu projeto atual de acompanhamento de tarefas domésticas).
+> E alguns commits claramente feitos após a meia-noite...
 <br>
 
 ## 🌱 Em evolução
