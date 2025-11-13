@@ -1,6 +1,6 @@
 # <div align="center"> Olá! 👋 </div>
 
-Bem-vinda/o/e ao meu espaço no GitHub! 🚀
+Bem-vindo ao meu espaço no GitHub! 🚀
 
 Sou desenvolvedora em formação, apaixonada por tecnologia e pelo impacto que boas soluções podem gerar no dia a dia das pessoas.
 <br>
