@@ -17,7 +17,7 @@ Aplicativos multiplataforma com foco em colaboração e gamificação (meu proje
 
 Atualmente estou:
 
-Participando do programa Fullstack da Generation - Código Raiz
+Participando do programa Mulher Digital promovido pela Cisco e JA Américas
 
 Cursando o primeiro semestre no Bacharelado em Tecnologia da Informação (UNIVESP)
 
